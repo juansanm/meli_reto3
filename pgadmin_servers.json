@@ -1,0 +1,15 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Devices TimescaleDB",
+      "Group": "Predictive Maintenance",
+      "Host": "db",
+      "Port": 5432,
+      "MaintenanceDB": "devices",
+      "Username": "ml",
+      "Password": "mlpass",
+      "SSLMode": "prefer",
+      "Favorite": true
+    }
+  }
+}
